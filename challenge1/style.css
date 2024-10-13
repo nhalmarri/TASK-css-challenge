@@ -1,0 +1,36 @@
+/* style.css */
+body {
+    background-color: rgb(31, 8, 61);
+  }
+  .imgSection {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: white;
+    color:white;
+    font-size: 15px;
+   
+  }
+  .textsection {
+    border-style:groove;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: white;
+    color:white;
+    font-family: Qwitcher Grypen;
+
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  p, h2 {
+    color:white;
+    font-family: Qwitcher Grypen;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
